@@ -3,7 +3,7 @@ import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLinkedinIn, faGithub } from "@fortawesome/free-brands-svg-icons";
 import { Element } from "react-scroll";
-import resume from "../assets/Rituraj_resume_.pdf";
+import resume from "../assets/Rituraj_resume.pdf";
 const Hero = () => {
   return (
     <Element name="home" class="hero-section container" id="home">
