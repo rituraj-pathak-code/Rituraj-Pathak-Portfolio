@@ -12,9 +12,9 @@ const Contact = () => {
       <h2>Contact</h2>
       <div className="contact__container">
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui at rem ab
-          iste accusantium tenetur eius id! Provident, eum officiis! Lorem ipsum
-          dolor sit amet, consectetur adipisicing elit. Modi, voluptas.
+          I am open to to work as a front end developer. Do not hesitate to
+          contact if you have project ideas and want to collaborate with me. I
+          am open to work as a full time developer (remote or on-site) as well.
         </p>
         <a
           href="mailto:riturajpathak1998@gmail.com"

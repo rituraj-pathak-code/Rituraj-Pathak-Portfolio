@@ -16,15 +16,14 @@ const Projects = () => {
 
           <div class="project-desc">
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Necessitatibus incidunt nostrum accusantium quas eos hic ipsa,
-              consectetur harum assumenda
+              A fully responsive clone of movie streaming website Netflix
+              developed using React. It has functionalities like add movie to
+              list. Used TMDB API for all movies.
             </p>
             <div className="projectcard_techstack">
               <h4>Tech Stack</h4>
               <p>
-                React, React Router, React Hooks, Local Storage, CSS Modules,
-                Git
+                React, React Router, React Hooks, Context API, vanilla CSS , Git
               </p>
             </div>
             <a
@@ -53,13 +52,13 @@ const Projects = () => {
 
           <div class="project-desc">
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Necessitatibus incidunt nostrum accusantium quas eos hic ipsa,
-              consectetur harum assumenda
+              A fully responsive Todo App developed using React. It has
+              functionalities like add todo, deleted todo, complete todo. Used
+              local storage to save previous data.
             </p>
             <div className="projectcard_techstack">
               <h4>Tech Stack</h4>
-              <p>React, React Hooks, Local Storage, CSS Modules, Git</p>
+              <p>React, React Hooks, Local Storage, vanilla CSS, Git</p>
             </div>
             <a
               href="https://github.com/rituraj-pathak-code/Todo-App"
@@ -86,13 +85,13 @@ const Projects = () => {
 
           <div class="project-desc">
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Necessitatibus incidunt nostrum accusantium quas eos hic ipsa,
-              consectetur harum assumenda
+              A visually appealing personal portfolio website developed using
+              react. Used libraries like Chakra UI, animation on scroll for
+              making it visually appealing.
             </p>
             <div className="projectcard_techstack">
               <h4>Tech Stack</h4>
-              <p>React, React Router, Chakra UI, Git</p>
+              <p>React, React Router, Chakra UI, vanilla CSS, Git</p>
             </div>
             <a
               href="https://github.com/rituraj-pathak-code/netflix-clone"
@@ -116,9 +115,9 @@ const Projects = () => {
 
           <div class="project-desc">
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Necessitatibus incidunt nostrum accusantium quas eos hic ipsa,
-              consectetur harum assumenda
+              A fully responsive landing page of a gaming website. It has two
+              games - Snake and tictactoe developed using JavaScript, HTML and
+              CSS
             </p>
             <div className="projectcard_techstack">
               <h4>Tech Stack</h4>

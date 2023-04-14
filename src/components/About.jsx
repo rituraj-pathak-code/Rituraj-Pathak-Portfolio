@@ -22,21 +22,21 @@ const About = () => {
         <div class="about-me-content">
           <div class="text-content">
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum,
-              laudantium soluta consequuntur provident dolor sit sed quo optio
-              enim magni perferendis debitis numquam possimus culpa hic. Dolorem
-              aliquam, ipsum temporibus, quasi possimus earum facilis nesciunt
+              I am a front end developer located in India. Since I was a kid I
+              had a passion for tech. I joined engineering in Jorhat Engineering
+              College located in Jorhat, Assam where I took my degree in
+              Computer Science and Engineering.
               <br />
               <br />
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat
-              exercitationem praesentium ex odio. Quam ipsum pariatur eius
-              veniam, eveniet temporibus unde hic nobis maxime fugit dolorum
-              dicta nulla sit quia est rem ducimus ea. <br />
+              I took keen interest in web development specifically front end
+              development. Being able to design and create perfect user
+              experiences which are visually appealing is what excites me about
+              front end development. <br />
               <br />
-              ab a vero! Quia blanditiis doloremque placeat. Quae harum adipisci
-              ipsum voluptatibus enim explicabo blanditiis saepe obcaecati
-              aliquid fuga molestiae odio reprehenderit, magnam odit nihil ullam
-              ratione veritatis minima ipsam! <br />
+              I am open to any oppurtunity and join communities to add value. I
+              am interested in the entire front end spectrum and working on
+              ambitious projects with positive people. <br />
+              <br />
             </p>
             <h4 style={{ color: "#c6f55a" }}>
               Here are few technologies I've been working with recently :
